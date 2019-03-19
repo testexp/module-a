@@ -9,7 +9,5 @@ node_modules
 *.idea
 !yarn.lock
 
-pr-workspace
-
 coverage
-.DS_STORE
+.DS_Store
