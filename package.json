@@ -7,6 +7,9 @@
   "scripts": {
     "prepare": "./node_modules/.bin/babel -d src/ src/"
   },
+  "dependencies": {
+    "react": "^16.8.5"
+  },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.0",
