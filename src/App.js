@@ -3,7 +3,7 @@ import React from 'react';
 export default function ModuleA() {
   return (
     <div>
-      Hello from Module A PR2
+      Hello from Module A PR
     </div>
   );
 }
