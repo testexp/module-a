@@ -3,5 +3,8 @@ resources:
     - repository: templates
       type: git
       name: spapipelineTemplate
+variables:
+  repo: "https://github.com/testexp/module-a/"
+  version: ""
 jobs:
 - template: commonTemplate.yml@templates
